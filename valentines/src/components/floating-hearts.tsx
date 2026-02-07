@@ -9,9 +9,9 @@ export default function FloatingHearts() {
                     className="absolute animate-float"
                     style={{
                         left: `${Math.random() * 100}%`,
-                        bottom: "-10%",
+                        top: "-10%",
                         fontSize: "24px",
-                        animationDelay: `${i * 0.5}s`,
+                        animationDelay: `${i * 0.1}s`,
                     }}
                 >
                     💗
