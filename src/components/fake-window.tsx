@@ -9,7 +9,7 @@ export default function CuteWindow({ onCLick }: { onCLick: () => void }) {
 
                     <div className="bg-white p-2 pb-6 border-2 border-[#7a4b5e] shadow-lg w-28">
                         <img
-                            src="/sushil.JPG"
+                            src="/Valetines/sushil.jpg"
                             className="w-full h-24 object-cover"
                         />
                         <p className="text-[10px] text-center mt-2 text-[#5a2f3d] font-handwriting">
