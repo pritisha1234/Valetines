@@ -121,7 +121,7 @@ function App() {
 
               {/* Image */}
               <img
-                src="/happy.JPG"
+                src="/happy.jpg"
                 className="w-64 h-64 object-cover rounded-xl border-4 border-pink-300 shadow-lg"
               />
 
